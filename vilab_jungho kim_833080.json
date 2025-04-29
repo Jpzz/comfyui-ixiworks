@@ -1,0 +1,100 @@
+{
+    "0": {
+        "scene_description": "A futuristic scene in a high-tech power facility in Shin Seoul, where the stealthy figure of \"Somyung\" sneaks in, surrounded by smooth, gleaming metal walls that reflect subtle neon hues, flashing LED lights casting dynamic, low-intensity glows for a mysterious atmosphere, and holographic displays projecting ethereal, blue-tinted interfaces. Security drones hover ominously with sleek, metallic designs and red scanning beams, while laser detectors are strategically placed, adding an element of tension with their precise, grid-like patterns. \"Somyung\" carefully steals electricity in the shadows, moving with cautious, agile grace in a cyberpunk style that emphasizes dramatic lighting contrasts and intricate details, ensuring that \"Somyung\"'s face remains dimly lit and not brightly illuminated to preserve the secretive mood, and making sure the background features no other characters or distracting elements to keep the focus sharp and immersive.",
+        "time_and_weather": "8 PM, clear weather with a crisp, starlit sky adding to the evening's quiet intensity.",
+        "camera_shot": "Medium shot to capture the scene's depth and \"Somyung\"'s subtle movements.",
+        "composition": "\"Somyung\" positioned on the right side of the frame, with the facility's entrance visible on the left, composing a dynamic flow as \"Somyung\" carefully moves from right to left, creating a sense of progression and tension in a balanced, asymmetrical layout.",
+        "negative": ""
+    },
+    "1": {
+        "scene_description": "A dystopian scene in a futuristic world where Somyung, a stealthy and determined figure clad in worn, tactical clothing, carries a glowing stolen power cell as he stealthily crosses into Old Seoul. The border is realistically depicted with imposing barbed wire fences, sturdy watchtowers, and patrolling armed drones, maintaining a balanced and non-exaggerated level of security to avoid any over-dramatization; make sure the image doesn't include any modern road signs or billboards along Somyung's path to preserve the desolate, abandoned atmosphere. In the distance, the vibrant bright lights of New Seoul shine like a beacon, contrasting sharply with the dark, shadowy silhouettes of Old Seoul that obscure the foreground, evoking a sense of mystery and peril. The wind-swept weeds rustle in the breeze, adding auditory tension visualized through subtle motion blur and textured details, all rendered in a high-contrast, cyberpunk style with realistic lighting, muted earth tones for the shadows, and subtle neon accents to heighten the dramatic, suspenseful mood.",
+        "time_and_weather": "9 PM, clear skies with a crisp, star-filled night overhead to enhance visibility and atmospheric depth.",
+        "camera_shot": "Wide shot to capture the expansive landscape and emphasize the scale of the border and distant city lights.",
+        "composition": "Somyung moves from the center of the screen toward the left, with the border's barbed wire and watchtowers positioned on the right side to create a tense, asymmetrical composition that draws the viewer's eye across the frame, building suspense without overwhelming the scene.",
+        "negative": ""
+    },
+    "2": {
+        "scene_description": "In the post-apocalyptic ruins of old Seoul, \"소명\" is narrowly escaping an attack from zombies that are moving at a natural, balanced pace—avoiding any depiction of movements that are too fast or too slow to ensure a realistic and tense atmosphere. The scene is filled with shattered asphalt roads overgrown with tangled vines and moss, collapsed shopping districts featuring decayed, weathered buildings with crumbling facades in a gritty, dystopian style, and hordes of zombies suddenly emerging from shadowy, fog-shrouded alleys. Moonlight casts an eerie, silvery glow over the environment, reflecting off jagged shards of broken car glass, creating dramatic highlights and shadows that evoke a haunting, cinematic mood; make sure there are no modern objects visible in the background to preserve the authentic, timeless ruin aesthetic, focusing instead on organic decay and vintage elements for a more immersive, detailed post-apocalyptic artwork.",
+        "time_and_weather": "At 10 PM on a clear night, with a bright full moon and visible stars illuminating the scene for a crisp, atmospheric visibility.",
+        "camera_shot": "Close-up shot of \"소명\"'s face to capture intense emotions and details, combined with a wide shot of the zombies to show their surrounding menace.",
+        "composition": "Compose the scene with \"소명\"'s close-up positioned in the center of the frame for emphasis, zombies entering from the left side and moving towards the right to build dynamic tension, while \"소명\" is framed fleeing towards the right side of the screen for a balanced, action-oriented composition.",
+        "negative": ""
+    },
+    "3": {
+        "scene_description": "A first-person perspective from \"소명\" as they discover an abandoned laboratory in old Seoul, where the space is covered in a balanced layer of dust and moss—not overly exaggerated—to convey subtle decay. The laboratory features only vintage and outdated equipment, such as broken glass tubes, worn-out computers, and scattered bottles containing strange liquids from failed experiments, ensuring no modern devices are visible to maintain an authentic, historical atmosphere. Light filters through the windows, gently illuminating floating dust particles in soft, natural beams, creating a mysterious and eerie mood with a photorealistic style, muted earthy tones, and subtle textures that highlight the passage of time and abandonment.",
+        "time_and_weather": "Morning at 10 AM, clear weather.",
+        "camera_shot": "POV shot from \"소명\".",
+        "composition": "The camera, from \"소명\"'s viewpoint, frames the laboratory interior with the entrance centered in the screen and experimental equipment scattered on the left and right sides, composing a balanced and immersive scene.",
+        "negative": ""
+    },
+    "4": {
+        "scene_description": "In a dimly lit, abandoned laboratory evoking a sense of retro mystery, \"Somyung\", a determined scientist with a focused expression, carefully activates the AI robot \"Robu\". \"Robu\" stands covered in layers of dust and overgrown vines, suddenly awakening with a subtle burst of warm light and faint mechanical sounds, ensuring its design remains vintage and not too modern or futuristic—avoid incorporating sleek lines or advanced tech, instead opting for worn, gear-laden, steampunk-inspired aesthetics with deliberate, balanced movements. In the background, the laboratory's old equipment blinks and operates subtly without exaggeration, maintaining a realistic and harmonious presence, while the walls feature peeling, faded posters of bygone scientific eras; make sure the overall composition avoids any overly dramatic effects, emphasizing a moody, atmospheric style with soft shadows and earthy tones to enhance the nostalgic, intriguing narrative.",
+        "time_and_weather": "11 AM, clear",
+        "camera_shot": "Medium shot of \"Robu\" activating",
+        "composition": "\"Robu\" is positioned in the center of the frame, \"Somyung\" stands to the left, and as \"Robu\" activates, light fills the screen.",
+        "negative": ""
+    },
+    "5": {
+        "scene_description": "In a dimly lit laboratory with a vintage sci-fi atmosphere, \"Lobu\" is earnestly explaining the origin of the zombie virus to \"Somyung\" during their conversation. A hologram, activated by \"Lobu\", displays detailed virus structures and data floating in the air, ensuring its design is classic and not too modern to avoid a contemporary look. In the background, worn monitors and charts are visible, kept simple and free from complex or overly modern designs to preserve an authentic, aged aesthetic. The scene evokes a mysterious tension with subtle, atmospheric lighting that highlights the holographic elements without overwhelming the vintage details.",
+        "time_and_weather": "12 PM, clear weather, suggesting natural light filtering through laboratory windows to add a touch of realism and brightness.",
+        "camera_shot": "A two-shot of \"Somyung\" and \"Lobu\", capturing their interaction with focused framing to emphasize their expressions and the holographic display.",
+        "composition": "\"Somyung\" positioned on the left side of the frame, \"Lobu\" on the right, with the hologram suspended centrally between them, creating a balanced and engaging composition.",
+        "negative": ""
+    },
+    "6": {
+        "scene_description": "In a post-apocalyptic landscape of old Seoul, \"Somyung\" encounters a survivor hiding in a makeshift shelter constructed from scavenged waste materials, evoking a gritty, realistic style with high contrast and textured details to highlight the harsh environment. The background is filled with rusted iron plates, piled stacks of canned goods, and shattered radios scattered as traces of desperate survival, while the distant echo of zombie howls adds an atmosphere of tension and unease; make sure the survivor's clothing and items are not modern, opting instead for worn-out, improvised, and vintage appearances to maintain an authentic, historical feel, and avoid any modern objects inside the shelter to preserve the scene's raw, timeless quality.",
+        "time_and_weather": "1 PM, overcast weather casting a muted, somber light over the scene.",
+        "camera_shot": "A two-shot of \"Somyung\" and the survivor, captured in a dynamic, immersive style with balanced framing to convey interaction and suspense.",
+        "composition": "\"Somyung\" positioned on the left side of the frame, the survivor on the right, with the shelter's entrance centered to create a symmetrical, focused composition that draws the viewer's eye to the central tension.",
+        "negative": ""
+    },
+    "7": {
+        "scene_description": "Scene descriptionis In a cyberpunk-inspired setting with a balanced architectural style, Somyung infiltrates a high-security building in Shin Seoul. The building is a massive structure of gleaming glass and sturdy steel, designed to be modern yet timeless to avoid excessive modernism, and equipped with biometric scanners, AI guard robots, and moving surveillance cameras that feel advanced but grounded rather than overly futuristic. The background features flickering hologram signs and the subtle, ambient hum of machinery, ensuring the internal technology maintains a realistic balance without appearing too alien or cutting-edge.",
+        "time_and_weather": "Time and weatheris Evening at 7 PM, under clear skies with vibrant natural lighting.",
+        "camera_shot": "Camera shotis Building exterior wide shot, interior medium shot.",
+        "composition": "Scene Compositionis For the building exterior shot, the building is positioned in the center of the frame; for the interior shot, Somyung moves from the right side of the frame to the left, with the guard robot positioned on the left side.",
+        "negative": ""
+    },
+    "8": {
+        "scene_description": "In a sophisticated yet timeless office that avoids an overly modern aesthetic, \"소명\" discovers crucial data revealing a conspiracy. The room features a large wall-mounted screen prominently displaying intricate numbers and graphs, with a sleek, transparent tablet resting on the desk for added technological subtlety. Through the window, the night view of Shin Seoul appears subtle and atmospheric, ensuring it is not too bright or flashy to maintain a balanced, understated mood. The overall scene is rendered in a realistic style with dramatic lighting to highlight the tension, incorporating elements of cyberpunk noir for depth and emotional intensity, while keeping colors muted and compositions focused to evoke mystery without excess.",
+        "time_and_weather": "Evening 8 PM, clear weather with a crisp, unobstructed sky.",
+        "camera_shot": "Close-up shots of the evidence for detailed clarity, followed by a close-up of \"소명\"'s reaction to capture facial expressions and emotional depth.",
+        "composition": "The evidence is centered in a close-up within the frame, \"소명\" positioned on the right side to convey focus and interaction, with the subtle night view of Shin Seoul on the left side for balanced composition and spatial depth.",
+        "negative": ""
+    },
+    "9": {
+        "scene_description": "Scene descriptionis In a high-tech cyberpunk world, \"소명\" is desperately fleeing from a small group of determined security agents through the sleek, futuristic corridors and outdoor expanses of Shin Seoul, with flying drones and high-speed electric motorcycles intensifying the pursuit. The scene bursts with dynamic energy, featuring neon lights reflecting off gleaming glass windows of towering buildings to emphasize speed and motion, while the overall composition maintains a focused chase with not too many people to avoid clutter; ensure the background does not include any unrelated modern objects, keeping the environment immersive and true to its advanced, dystopian aesthetic, rendered in a vibrant, high-contrast style with sharp details and atmospheric depth for a thrilling, cinematic feel.",
+        "time_and_weather": "Time and weatheris 9 PM, clear weather with a starry night sky and crisp visibility to enhance the urban glow.",
+        "camera_shot": "Camera shotis Wide shot to capture the action and scale of the chase, combined with intense close-ups on \"소명\" and the agents for added emotional and dramatic impact.",
+        "composition": "Scene Compositionis \"소명\" positioned at the center of the frame while evading capture, with pursuing agents emerging dynamically from the left side, and the drone captured from an overhead perspective to convey surveillance and heighten the sense of vulnerability.",
+        "negative": ""
+    },
+    "10": {
+        "scene_description": "Somyung is desperately fleeing towards the dark ruins of Old Seoul, clutching vital evidence in hand, as the border fence—composed of realistic, unexaggerated barbed wire and subtle flashing lights—shimmers under the night sky, with the ominous hum of pursuing drones growing increasingly close. To maintain authenticity, ensure the border security elements are depicted subtly and not overstated, and make sure no modern objects intrude in the background, keeping the focus on the atmospheric, post-apocalyptic ruins that eerily welcome Somyung. This scene is rendered in a dramatic, high-contrast cinematic style with deep shadows and a tense, gritty texture to evoke urgency and desolation.",
+        "time_and_weather": "10 PM, under a clear sky with visible stars and moonlight casting subtle illumination.",
+        "camera_shot": "Wide shot capturing the border crossing, emphasizing the expansive landscape and action.",
+        "composition": "Somyung is running from the right side of the frame to the left, with the border's barbed wire positioned centrally to create a balanced and dynamic composition.",
+        "negative": ""
+    },
+    "11": {
+        "scene_description": "A dramatic and tense scene unfolds as \"Somyung\" confronts the mastermind behind the conspiracy on the rooftop of a high-rise building in Shin Seoul, with the city's lights subtly visible beyond a glass railing to maintain a subdued and atmospheric mood—avoid having these lights appear too bright or flashy. The howling wind sweeps across the rooftop, amplifying the suspense and emotional intensity, while the mastermind's clothing and items are kept timeless and not too modern, evoking a mysterious, classic style rather than contemporary elements; this ensures the focus remains on the raw confrontation and character dynamics. To enhance the artistic depth, depict the scene in a cinematic style with high contrast lighting, subtle color grading towards cool blues and grays for a moody, film noir influence, emphasizing dramatic shadows and expressions that convey inner turmoil and resolve.",
+        "time_and_weather": "2 PM, cloudy weather casting a diffused, overcast light that softens harsh edges and heightens the somber atmosphere.",
+        "camera_shot": "Medium shot for capturing the dialogue and interactions, transitioning to close-up shots to intensely convey the characters' emotions and facial details.",
+        "composition": "\"Somyung\" positioned on the left side of the frame, the conspirator on the right, with the expansive cityscape serving as a distant, unobtrusive background to balance the composition and draw focus to the central figures.",
+        "negative": ""
+    },
+    "12": {
+        "scene_description": "An intense action scene resolving a conflict, set in the rugged boundary area where New Seoul and Old Seoul converge. The landscape is dominated by broken bridges, tangled rebar, and scattered abandoned vehicles, all enveloped in a thick haze of dust and smoke that creates a dramatic, post-apocalyptic atmosphere with high-contrast lighting and muted, earthy tones to emphasize tension and desolation. Make sure the scene features only a few key characters to avoid overcrowding the action, and ensure no modern objects are visible in the background, maintaining a timeless, dystopian aesthetic with raw, gritty textures and dynamic shadows for added depth and realism.",
+        "time_and_weather": "3 PM, under a cloudy sky that diffuses the light, casting a somber and overcast mood with subtle gray hues to heighten the dramatic tension.",
+        "camera_shot": "A mix of wide shots to capture the expansive, chaotic environment, medium shots to focus on the interactions, and close-up shots for emotional intensity and detail.",
+        "composition": "Use various compositions based on the actionis \"소명\" fighting in the center of the screen, with enemies appearing around to create a balanced, dynamic layout that draws the viewer's eye to the central conflict while incorporating subtle depth and movement.",
+        "negative": ""
+    },
+    "13": {
+        "scene_description": "Scene descriptionis Depict the concluding scene of the story, set against the backdrop of New Seoul's dawn sky with a rising sun casting golden hues and pristine air evoking a sense of renewal and hope, or the quiet ruins of Old Seoul conveying solemnity and reflection, depending on \"소명\"'s choice. To enhance the emotional depth, incorporate a cinematic style with dramatic lighting, subtle color gradients from warm oranges to cool blues, and a painterly quality reminiscent of post-apocalyptic art by artists like Simon Stålenhag, while ensuring the scene features only a few characters at most to maintain intimacy and focus—make sure the image doesn't include too many figures—and avoid any modern objects in the background to preserve a timeless, historical atmosphere.",
+        "time_and_weather": "Time and weatheris At 6 AM dawn, under clear skies with fresh, unpolluted air and a serene ambiance.",
+        "camera_shot": "Camera shotis Wide shot of the city combined with a close-up of \"소명\" to capture both the expansive environment and personal emotion.",
+        "composition": "Scene Compositionis In the wide shot, position the city prominently in the center of the frame for emphasis, place the close-up of \"소명\" on the right side to draw the viewer's eye toward the character, and compose the sun rising from the left side to symbolize emergence and balance within the scene.",
+        "negative": ""
+    }
+}
