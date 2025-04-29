@@ -1,8 +1,8 @@
-from .virtualinteraction_nodes import TextParserNode, UnzipPromptNode, JoinPromptNode
+from .virtualinteraction_nodes import JsonParserNode, UnzipPromptNode, JoinPromptNode
 
 NODE_CLASS_MAPPINGS = {
-    "TextParserNode": TextParserNode,
+    "JsonParserNode": JsonParserNode,
     "UnzipPromptNode": UnzipPromptNode,
     "JoinPromptNode": JoinPromptNode,
 }
-__all__ = ["TextParserNode", "UnzipPromptNode", "JoinPromptNode"]
+__all__ = ["JsonParserNode", "UnzipPromptNode", "JoinPromptNode"]
