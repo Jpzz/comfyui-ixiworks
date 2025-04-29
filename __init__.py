@@ -1,6 +1,8 @@
-from .excel_reader import ExcelReaderNode
+from .text_parser import TextParserNode
+from .unzip_prompt import UnzipPromptNode
 
 NODE_CLASS_MAPPINGS = {
-    "ExcelReaderNode": ExcelReaderNode,
+    "TextParserNode": TextParserNode,
+    "UnzipPromptNode": UnzipPromptNode,
 }
-__all__ = ["ExcelReaderNode"]
+__all__ = ["TextParserNode", "UnzipPromptNode"]
