@@ -8,7 +8,7 @@ class TextParserNode:
     RETURN_TYPES = ("ZIPPED_PROMPT", "INT", "INT")    
     RETURN_NAMES = ("zipped_prompt", "count", "remaining_count")
     FUNCTION = "parse_text"
-    CATEGORY = "custom_nodes"
+    CATEGORY = "StoryBoard"
     
     def parse_text(self, text_file):
         try:
@@ -39,11 +39,11 @@ class UnzipPromptNode:
     RETURN_TYPES = ("STRING", "STRING", "STRING", "STRING")
     RETURN_NAMES = ("scene_description", "time_and_weather", "camera_shot", "composition")
 
-    FUNCTION = "doit"
+    FUNCTION = "unzip_prompt"
 
-    CATEGORY = "custom_nodes"
+    CATEGORY = "StoryBoard"
 
-    def doit(self, zipped_prompt):
+    def unzip_prompt(self, zipped_prompt):
         if zipped_prompt and len(zipped_prompt) > 0:
             # Assuming zipped_prompt is a list of tuples with 4 elements
             item = zipped_prompt[0]

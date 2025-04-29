@@ -1,5 +1,4 @@
-from .text_parser import TextParserNode
-from .unzip_prompt import UnzipPromptNode
+from .virtualinteraction_nodes import TextParserNode, UnzipPromptNode
 
 NODE_CLASS_MAPPINGS = {
     "TextParserNode": TextParserNode,
