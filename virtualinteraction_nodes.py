@@ -51,6 +51,10 @@ class UnzipPromptNode:
         else:
             return ("", "", "", "")
 
+# Initialize NODE_CLASS_MAPPINGS if not already defined
+if 'NODE_CLASS_MAPPINGS' not in globals():
+    NODE_CLASS_MAPPINGS = {}
+
 NODE_CLASS_MAPPINGS.update({
     "TextParserNode": TextParserNode,
     "UnzipPromptNode": UnzipPromptNode,
