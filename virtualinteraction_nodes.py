@@ -15,8 +15,8 @@ class JsonParserNode:
     CATEGORY = "StoryBoard"
     
     def parse_text(self, file_name):
-        file_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "input", file_name)
-        logging.info(f"[StoryBoard] TextParserNode: file path '{file_path}'")
+        file_path = os.path.abspath(os.path.normpath(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "input", file_name)))
+        logging.info(f"[StoryBoard] JsonParserNode: file path '{file_path}'")
         try:
             # Load the JSON file
             with open(file_path, 'r', encoding='utf-8') as file:
