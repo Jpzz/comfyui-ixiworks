@@ -60,6 +60,17 @@ class UnzipPromptNode:
         else:
             return ([], [], [], [])
 
+class ShowTextNode:
+    @classmethod
+    def INPUT_TYPES(s):
+        return {"required": {"text": ("STRING",), }}
+    RETURN_TYPES = ()
+    FUNCTION = "show_text"
+    CATEGORY = "StoryBoard"
+    def show_text(self, text):
+        print(text)
+
+
 class JoinPromptNode:
     @classmethod
     def INPUT_TYPES(s):
@@ -71,9 +82,9 @@ class JoinPromptNode:
     CATEGORY = "StoryBoard"
 
     def join_prompt(self, descriptions, time_and_weathers, camera_shots, compositions):
-        prompts = []
+        prompts = ()
         for i in range(len(descriptions)):
-            prompts.append(descriptions[i] + time_and_weathers[i] + camera_shots[i] + compositions[i])
+            prompts += descriptions[i] + time_and_weathers[i] + camera_shots[i] + compositions[i]
         return (prompts,)
 
 # Initialize NODE_CLASS_MAPPINGS if not already defined
@@ -83,5 +94,6 @@ if 'NODE_CLASS_MAPPINGS' not in globals():
 NODE_CLASS_MAPPINGS.update({
     "JsonParserNode": JsonParserNode,
     "UnzipPromptNode": UnzipPromptNode,
+    "ShowTextNode": ShowTextNode,
     "JoinPromptNode": JoinPromptNode,
 })
