@@ -1,8 +1,10 @@
-from .virtualinteraction_nodes import JsonParserNode, UnzipPromptNode, JoinPromptNode
+from .ixiworks_nodes import *
 
 NODE_CLASS_MAPPINGS = {
     "JsonParserNode": JsonParserNode,
-    "UnzipPromptNode": UnzipPromptNode,
-    "JoinPromptNode": JoinPromptNode,
+    "BuildPromptNode": BuildPromptNode,
+    "BuildCharacterPromptNode": BuildCharacterPromptNode,
+    "SelectIndexNode": SelectIndexNode,
+    "MergeStringsNode": MergeStringsNode,
 }
-__all__ = ["JsonParserNode", "UnzipPromptNode", "JoinPromptNode"]
+__all__ = ["JsonParserNode", "BuildPromptNode", "BuildCharacterPromptNode", "SelectIndexNode", "MergeStringsNode"]  

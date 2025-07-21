@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-ixiworks"
+description = "StoryBoard nodes for ComfyUI - Parse JSON templates and build prompts for generative movie creation"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Jpzz/comfyui-ixiworks"
+
+[tool.comfy]
+PublisherId = "ixiworks"
+DisplayName = "IxiWorks StoryBoard Nodes"
+Icon = ""

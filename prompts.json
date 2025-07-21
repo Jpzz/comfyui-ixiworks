@@ -1,0 +1,136 @@
+{
+  "scene": {
+    "1": {
+      "title": {
+        "ko": "Scene 1",
+        "en": "Scene 1"
+      },
+      "m_character": {
+        "ko_name": "소명",
+        "en_name": "Somyung",
+        "description": "A female teenager in her early teens with long, straight hair, wearing a gray hooded jacket."
+      },
+      "s_character": {
+        "ko_name": "로부",
+        "en_name": "Robu",
+        "description": "A humanoid robot with a torso full of exposed wiring and cables."
+      },
+      "time": {
+        "ko": "5시",
+        "en": "5:00 PM"
+      },
+      "weather": {
+        "ko": "흐림",
+        "en": "Overcast"
+      },
+      "camera_shot": {
+        "ko": "익스트림 클로즈업",
+        "en": "Extreme Close-up"
+      },
+      "camera_movement": {
+        "ko": "스태틱 샷",
+        "en": "Static Shot"
+      },
+      "description": {
+        "ko": "2065년 서울의 항공 뷰로, 신서울은 반짝이는 고층 빌딩, 플라잉 카, 홀로그램 광고판으로 가득한 첨단 도시로 묘사된다. 반면 구서울은 무너진 건물과 우거진 초목, 좀비들이 배회하는 황폐한 폐허로 대조된다. 하늘은 흐리고 신서울의 네온 불빛이 구서울의 어둠을 비춘다.",
+        "en": "An aerial view of Seoul in the year 2065 is depicted. New Seoul is portrayed as a futuristic city filled with gleaming high-rise buildings, flying cars, and holographic billboards. In contrast, Old Seoul is shown as a dilapidated ruin with crumbling structures, overgrown vegetation, and wandering zombies. The sky is overcast, and the neon lights of New Seoul illuminate the darkness of Old Seoul."
+      },
+      "detailed_script": {
+        "ko": "카메라는 도시를 위에서 내려다보며, 신서울은 화면 왼쪽, 구서울은 화면 오른쪽에 위치. 도시의 대조를 강조하기 위해 화면을 양분하는 구도.",
+        "en": "The camera looks down on the city from above, with New Seoul positioned on the left side of the frame and Old Seoul on the right. The composition divides the screen in half to emphasize the contrast between the two cities."
+      },
+      "negative_prompt": {
+        "ko": "현대적인 요소(예: 자동차, 스마트폰 등)가 구서울에 보이지 않도록 주의. - 신서울의 첨단 기술이 과장되지 않도록 균형 유지.",
+        "en": "Ensure that no modern elements (such as cars, smartphones, etc.) are visible in Old Seoul. Maintain a balanced portrayal of the advanced technology in New Seoul, avoiding exaggeration."
+      }
+    },
+    "2": {
+      "title": {
+        "ko": "Scene 2",
+        "en": "Scene 2"
+      },
+      "m_character": {
+        "ko_name": "소명",
+        "en_name": "Somyung",
+        "description": "A teenage girl with long brown hair, wearing a gray hooded jacket"
+      },
+      "s_character": {
+        "ko_name": "로부",
+        "en_name": "Robu",
+        "description": "A humanoid robot with a torso filled with wiring and cables"
+      },
+      "time": {
+        "ko": "5시",
+        "en": "5:00 PM"
+      },
+      "weather": {
+        "ko": "맑음",
+        "en": "Clear"
+      },
+      "camera_shot": {
+        "ko": "클로즈업",
+        "en": "Close-up"
+      },
+      "camera_movement": {
+        "ko": "팬",
+        "en": "Pan"
+      },
+      "description": {
+        "ko": "\"소명\"이 신서울의 전력 시설에 몰래 침입한다. 배경은 매끈한 금속 벽, 번쩍이는 LED 조명, 홀로그램 디스플레이로 둘러싸인 첨단 시설이며, 보안 드론과 레이저 감지기가 곳곳에 배치되어 있다. \"소명\"은 어둠 속에서 조심스럽게 전기를 훔친다.",
+        "en": "Somyung stealthily infiltrates a power facility in New Seoul. The setting is a high-tech facility with smooth metal walls, flashing LED lights, and holographic displays, guarded by security drones and laser detectors. Somyung carefully steals electricity in the dark."
+      },
+      "detailed_script": {
+        "ko": "\"소명\"은 화면 오른쪽에 위치, 시설의 입구는 화면 왼쪽에 보이며, \"소명\"이 조심스럽게 오른쪽에서 왼쪽으로 이동하는 구도.",
+        "en": "Somyung is positioned on the right side of the frame, with the facility entrance visible on the left side. Somyung is cautiously moving from right to left."
+      },
+      "negative_prompt": {
+        "ko": "\"소명\"의 얼굴이 너무 밝게 비추어지지 않도록 조명 조절. - 배경에 다른 인물이 등장하지 않도록 주의.",
+        "en": "Ensure Somyung's face is not overly illuminated. Avoid having any other characters appear in the background."
+      }
+    },
+    "3": {
+      "title": {
+        "ko": "Scene 3",
+        "en": "Scene 3"
+      },
+      "m_character": {
+        "ko_name": "소명",
+        "en_name": "Somyung",
+        "description": "Female, long straight hair, wearing a gray hoodie, early teenager"
+      },
+      "s_character": {
+        "ko_name": "로부",
+        "en_name": "Robu",
+        "description": "Humanoid robot, with a bundle of wires visible on the upper body"
+      },
+      "time": {
+        "ko": "17시",
+        "en": "5:00 PM"
+      },
+      "weather": {
+        "ko": "폭풍우",
+        "en": "Stormy"
+      },
+      "camera_shot": {
+        "ko": "미디엄 샷",
+        "en": "Medium Shot"
+      },
+      "camera_movement": {
+        "ko": "스태틱 샷",
+        "en": "Static Shot"
+      },
+      "description": {
+        "ko": "\"소명\"이 훔친 전력 셀을 들고 구서울로 넘어간다. 국경은 철조망, 감시탑, 무장 드론으로 경비가 삼엄하며, 신서울의 밝은 불빛이 멀리서 빛나고 구서울의 어두운 그림자가 앞을 가린다. 바람에 흔들리는 잡초 소리가 긴장감을 더한다.",
+        "en": "Somyung crosses over to Old Seoul, carrying the stolen power cell. The border is heavily guarded with barbed wire, watchtowers, and armed drones. The bright lights of New Seoul shine in the distance, while the dark shadows of Old Seoul loom ahead. The sound of wind rustling through the weeds adds to the tension."
+      },
+      "detailed_script": {
+        "ko": "\"소명\"은 화면 중앙에서 왼쪽으로 이동, 국경의 철조망과 감시탑이 화면 오른쪽에 위치하여 긴장감을 주는 구도.",
+        "en": "Somyung moves from the center of the frame towards the left, with the barbed wire border and watchtowers positioned on the right side of the frame, creating a tense composition."
+      },
+      "negative_prompt": {
+        "ko": "\"소명\"의 이동 경로에 현대적인 도로 표지판이나 간판이 보이지 않도록 주의. - 국경의 경비 요소가 과장되지 않도록 균형 유지.",
+        "en": "Avoid showing any modern road signs or billboards along Somyung's path. Maintain a balanced representation of the border security elements, without exaggeration."
+      }
+    }
+  }
+}
